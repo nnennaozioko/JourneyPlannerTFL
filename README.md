@@ -40,4 +40,16 @@ During the development and testing phases, several exceptions were encountered, 
 
 Then GitHub repository is created for the transmission of this project.
 
+Some screenshots
+ 
+
+
+
+
+ 
+
+  
+
+  
+
 
